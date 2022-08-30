@@ -1,1 +1,4 @@
-echo "School"
+echo "School">
+echo "The school is open!">school
+
+echo "The school is open!"
